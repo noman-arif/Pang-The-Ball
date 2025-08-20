@@ -1,0 +1,23 @@
+Pang the Ball 🎈
+
+Description:
+Pang the Ball is an arcade-style action puzzle game where the player must shoot harpoons to pop bouncing balls. Each time a large ball is hit, it splits into smaller ones until it completely disappears. The challenge is to survive while clearing all the balls from the screen without letting them touch the player.
+
+Core Gameplay:
+
+Player can move left and right at the bottom of the screen.
+
+A harpoon gun allows shooting upward to pop bouncing balls.
+
+Balls split into smaller ones when hit, creating fast-moving threats.
+
+Contact with any ball reduces the player’s life.
+
+Objective:
+Destroy all balls on the screen to progress to the next level while avoiding being hit.
+
+Power-Ups:
+
+Extra Life Power-Up 🧡 – Grants the player an additional life, giving more chances to survive longer.
+
+Time Power-Up ⏳ – Increases the countdown timer, allowing the player extra time to complete the level.
